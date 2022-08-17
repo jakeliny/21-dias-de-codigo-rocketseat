@@ -1,0 +1,32 @@
+body {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1,
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #555;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h1 strong {
+  font-weight: 700;
+  background: #eee;
+  padding: 0 0.4rem;
+}
+
+p a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #999;
+}
