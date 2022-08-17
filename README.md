@@ -7,7 +7,7 @@ Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1
 ## Desafios:
 <ol>
 <li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">DESAFIO CONCLUÍDO</a></li>
-<li> Faça um Hello World customizado com fontes, cores e imagens. <a href="">DESAFIO CONCLUÍDO</a></li>
+<li> Faça um Hello World customizado com fontes, cores e imagens. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-2/">DESAFIO CONCLUÍDO</a></li>
 <li>Crie um botão animado.</li>
 <li>Crie uma calculadora.</li>
 <li>Desenvolva uma página customizada que exiba o erro 404.</li>
