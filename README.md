@@ -9,8 +9,8 @@ Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1
 <li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">DESAFIO CONCLUÍDO</a></li>
 <li> Faça um Hello World customizado com fontes, cores e imagens. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-2/">DESAFIO CONCLUÍDO</a></li>
 <li>Crie um botão animado. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-3/">DESAFIO CONCLUÍDO</a></li>
-<li>Crie uma calculadora. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-4/">DESAFIO CONCLUÍDO</li>
-<li>Desenvolva uma página customizada que exiba o erro 404.</li>
-<li>Crie um card com o efeito glassmorphism.</li>
-<li>Desenvolva um contador.</li>
+<li>Crie uma calculadora. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-4/">DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva uma página customizada que exiba o erro 404. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-5/">DESAFIO CONCLUÍDO</a></li>
+<li>Crie um card com o efeito glassmorphism. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-6/">DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva um contador. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-7/">DESAFIO CONCLUÍDO</a></li>
 </ol>
