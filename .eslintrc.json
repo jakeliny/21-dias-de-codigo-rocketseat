@@ -24,6 +24,9 @@
         "semi": [
             "error",
             "always"
+        ],
+        "ignorePatterns": [
+            "**/*.html"
         ]
     }
 }
