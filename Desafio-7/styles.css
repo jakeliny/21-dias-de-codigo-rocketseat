@@ -1,0 +1,66 @@
+body {
+  color: #fff;
+  background-color: black;
+
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  width: 500px;
+  height: 500px;
+}
+
+button {
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #fff;
+  font-weight: 600;
+  border: none;
+}
+
+button img {
+  width: 60%;
+}
+
+.buttons,
+.main-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.buttons button {
+  padding: 1rem 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(180, 31, 165);
+  text-transform: uppercase;
+}
+
+p {
+  text-align: center;
+  font-size: 6rem;
+}
+
+.main-buttons button {
+  border-radius: 100%;
+  width: 70px;
+  height: 70px;
+  border: none;
+  background-image:
+    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
+    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
+  font-size: 1.5rem;
+  cursor: pointer;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pomodoro</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main>
+    <div class="buttons">
+      <button class="button-mode active" data-mode="pomodoro">
+        Pomodoro
+      </button>
+      <button class="button-mode" data-mode="shortBreak">
+        Short break
+      </button>
+      <button class="button-mode" data-mode="longBreak">
+        Long break
+      </button>
+    </div>
+    <p id="contador">25:00</p>
+    <div class="main-buttons">
+      <button class="button" data-action="start"><img src="images/start.svg" /></button>
+      <button class="button" data-action="pause"><img src="images/pause.svg" /></button>
+      <button class="button" data-action="stop"><img src="images/stop.svg" /></button>
+    </div>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
