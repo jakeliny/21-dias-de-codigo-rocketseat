@@ -58,9 +58,31 @@ p {
   width: 70px;
   height: 70px;
   border: none;
-  background-image:
-    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
-    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
   font-size: 1.5rem;
   cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.main-buttons button[data-action="stop"] {
+  background-image:
+    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
+    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%),
+    url(images/stop.svg);
+}
+
+.main-buttons button[data-action="start"] {
+  background-image:
+    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
+    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%),
+    url(images/start.svg);
+  background-position-x: 81%;
+}
+
+.main-buttons button[data-action="pause"] {
+  background-image:
+    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
+    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%),
+    url(images/pause.svg);
 }
