@@ -1,0 +1,87 @@
+main {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Roboto', sans-serif;
+
+  background-color: #000;
+  background-image:
+    radial-gradient(at 47% 33%, rgb(168, 23, 181) 0, transparent 59%),
+    radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  backdrop-filter: blur(10px) saturate(290%);
+
+}
+
+form {
+  width: 40%;
+  padding: 1rem 0;
+
+  border-radius: 12px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form h1,
+form p,
+form a {
+  color: #ddd;
+  margin-bottom: 20px;
+}
+
+form input {
+  width: 70%;
+  padding: 0.5rem 0;
+  border: none;
+  border-bottom: 2px solid rgb(214, 37, 230);
+  outline: none;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #fff;
+  background: transparent;
+}
+
+form input::placeholder {
+  color: #bbb;
+}
+
+form input:hover {
+  box-shadow: 0 15px 20px -6px rgb(214, 37, 230);
+}
+
+form button {
+  width: 70%;
+  padding: 0.8rem;
+  margin: 2rem 0;
+
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.271);
+
+  color: #fff;
+  font-size: 1rem;
+
+  transition: all 0.3s ease;
+  cursor: pointer;
+
+}
+
+form button:hover {
+  box-shadow: 0 0 20px -6px rgb(214, 37, 230);
+  background: #000;
+}
+
+.loading {
+  width: 50px;
+}
+
+.loading.hidden {
+  display: none;
+}
