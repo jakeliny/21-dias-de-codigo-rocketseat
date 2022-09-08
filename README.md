@@ -14,7 +14,7 @@ Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1
 <li>Crie um card com o efeito glassmorphism. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-6/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Desenvolva um contador. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-7/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Desenvolva um toggle que altere o tema para claro e escuro. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-8/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva uma animaçãos de loading</li>
+<li>Desenvolva uma animaçãos de loading. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-9/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Utilize a lib particle.js</li>
 <li>Desenvolva um layout de formulário de login</li>
 <li>Desenvolva uma galeria de imagens</li>
