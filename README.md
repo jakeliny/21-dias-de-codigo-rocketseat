@@ -1,23 +1,27 @@
 # 21 Dias De Codigo
 Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1 hora por dia durante 21 dias e concluir desafios diários.
 <br>
-[POST DO DESAFIO](https://www.instagram.com/p/ChTBg1BpLGU/)
+[Post Desafio 1 - 7](https://www.instagram.com/p/ChTBg1BpLGU/)
+
+[Post Desafio 8 - 14](https://www.instagram.com/p/ChkahuNOLvF/)
+
+[Post Desafio 15 - 21](https://www.instagram.com/p/Ch3EOQ0p2sZ/)
 <br>
 <br>
 ## Desafios:
 <ol>
-<li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li> Faça um Hello World customizado com fontes, cores e imagens. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-2/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Crie um botão animado. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-3/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Crie uma calculadora. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-4/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva uma página customizada que exiba o erro 404. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-5/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Crie um card com o efeito glassmorphism. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-6/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva um contador. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-7/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva um toggle que altere o tema para claro e escuro. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-8/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva uma animaçãos de loading. <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-9/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Utilize a lib particle.js <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-10/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva um layout de formulário de login.  <a href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-11/">VEJA O DESAFIO CONCLUÍDO</a></li>
-<li>Desenvolva uma galeria de imagens</li>
+<li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a target="_blank" href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li> Faça um Hello World customizado com fontes, cores e imagens. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-2/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Crie um botão animado. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-3/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Crie uma calculadora. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-4/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva uma página customizada que exiba o erro 404. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-5/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Crie um card com o efeito glassmorphism. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-6/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva um contador. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-7/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva um toggle que altere o tema para claro e escuro. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-8/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva uma animaçãos de loading. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-9/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Utilize a lib particle.js <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-10/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva um layout de formulário de login.  <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-11/">VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Desenvolva uma galeria de imagens  <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-12/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Desenvolva um menu responsivo</li>
 <li>Crie um formulário de quizzes</li>
 <li>Desenvolva um site que exiba uma vitrine de produtos e um e-commerce ficticio (com nome dos produtos, preços e imagens)</li>
