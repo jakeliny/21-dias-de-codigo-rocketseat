@@ -10,7 +10,7 @@ Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1
 <br>
 ## Desafios:
 <ol>
-<li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a target="_blank" href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">VEJA O VEJA O DESAFIO CONCLUÍDO</a></li>
+<li>Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código. <a target="_blank" href="https://github.com/jakeliny/21-dias-de-codigo-rocketseat">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li> Faça um Hello World customizado com fontes, cores e imagens. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-2/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Crie um botão animado. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-3/">VEJA O DESAFIO CONCLUÍDO</a></li>
 <li>Crie uma calculadora. <a target="_blank" href="https://jakeliny.github.io/21-dias-de-codigo-rocketseat/Desafio-4/">VEJA O DESAFIO CONCLUÍDO</a></li>
