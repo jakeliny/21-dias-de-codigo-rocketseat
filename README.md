@@ -30,5 +30,5 @@ Desafio proposto pela [Rocketseat](http://rocketseat.com.br). Codar pelo menos 1
 <li>Desenvolva um gerador de senhas aleatórias </li>
 <li>Desenvolva um site gere imagens aleatórias utilizando a API do Unsplash</li>
 <li>Desenvolva um site  emoji picker. Ao selecionar o emoji, é copiado para a área de transferência</li>
-<li>Desenvolva uma página para o seu portfolio (Conte sobre você, suas experiencias e habilidades. Inclua todos os desafios desenvolvidos durante os 21 dias de código )</li>
+<li>Desenvolva uma página para o seu portfolio (Conte sobre você, suas experiencias e habilidades. Inclua todos os desafios desenvolvidos durante os 21 dias de código ) <a target="_blank" href="https://github.com/jakeliny/spa-portfolio">VEJA O DESAFIO CONCLUÍDO</a></li>
 </ol>
